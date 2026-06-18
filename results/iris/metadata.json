@@ -1,6 +1,0 @@
-{
-  "name": "iris",
-  "n_classes": 3,
-  "n_samples": 150,
-  "n_features": 4
-}

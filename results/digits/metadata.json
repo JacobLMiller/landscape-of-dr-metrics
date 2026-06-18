@@ -1,6 +1,0 @@
-{
-  "name": "digits",
-  "n_classes": 10,
-  "n_samples": 1797,
-  "n_features": 64
-}

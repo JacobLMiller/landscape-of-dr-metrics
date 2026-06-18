@@ -1,6 +1,0 @@
-{
-  "name": "breast_cancer",
-  "n_classes": 2,
-  "n_samples": 569,
-  "n_features": 30
-}
