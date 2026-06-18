@@ -1,0 +1,6 @@
+{
+  "name": "mnist",
+  "n_classes": 10,
+  "n_samples": 5000,
+  "n_features": 784
+}

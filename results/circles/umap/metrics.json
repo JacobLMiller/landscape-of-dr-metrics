@@ -1,0 +1,19 @@
+{
+  "average_local_error": 0.19900348052099992,
+  "class_aware_continuity": 0.9987125978596568,
+  "continuity": 0.9987125978596568,
+  "jaccard": 0.5130433760683764,
+  "mrre_data": 0.0023604998414786618,
+  "mrre_proj": 0.0017139327142488365,
+  "neighborhood_hit": 1.0,
+  "false_neighbors": 0.34585714285714286,
+  "true_neighbors": 0.6541428571428569,
+  "procrustes": 0.9983446002006531,
+  "class_aware_trustworthiness": 1.0,
+  "trustworthiness": 0.998196222078575,
+  "distance_consistency": 1.0,
+  "pearson_correlation": 0.3455543157600028,
+  "shepard_goodness": 0.34698373079299927,
+  "normalized_stress": 166.26428485185244,
+  "scale_normalized_stress": 0.23283670226471093
+}

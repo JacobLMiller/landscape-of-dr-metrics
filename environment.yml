@@ -1,0 +1,15 @@
+name: dr-landscape
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - scikit-learn==1.8.0
+    - umap-learn==0.5.12
+    - tensorflow==2.21.0
+    - tensorflow-projection-qm==0.3.1
+    - joblib==1.5.3
+    - numpy==2.4.6
+    - pandas==2.3.3
